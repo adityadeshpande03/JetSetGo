@@ -47,8 +47,8 @@ JetSetGo is a Streamlit-based web application designed to assist users in planni
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/adityadeshpande03/JetSetGo
+    cd JetSetGo
     ```
 
 2.  **Install dependencies:**
@@ -127,24 +127,7 @@ JetSetGo is a Streamlit-based web application designed to assist users in planni
 *   **User authentication and saving of itineraries.**
 *   **Improved error handling and user feedback.**
 *   **More sophisticated AI agent interaction.**
+---
 
-## 🤝 Contributing
+Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/JetSetGo)
 
-Contributions are welcome!  If you'd like to contribute, please:
-
-1.  Fork the repository.
-2.  Create a feature branch.
-3.  Make your changes and commit them.
-4.  Submit a pull request.
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 🐛 Known Issues
-
-*   [List any known bugs or limitations]
-
-## 📧 Contact
-
-For any questions or suggestions, feel free to reach out!
