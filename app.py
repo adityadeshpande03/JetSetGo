@@ -5,7 +5,6 @@ from textwrap import dedent
 from agno.tools.serpapi import SerpApiTools
 from dotenv import load_dotenv
 import os
-from fpdf import FPDF
 import base64
 import requests
 import json
